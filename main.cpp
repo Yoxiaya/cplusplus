@@ -24,8 +24,8 @@ int main()
     double f = 123.456;
 
     int arr[5];
-    int *g = &arr[0];
-    int *h = &arr[1];
+    int* g = &arr[0];
+    int* h = &arr[1];
 
     int i = a;
     a = 20;
